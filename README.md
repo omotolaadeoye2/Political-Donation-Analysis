@@ -1,2 +1,2 @@
-# Political-Donation-Analysis
-Python and SAS codes
+# Analyzing Restaurant Attributes to Predict Closure
+
